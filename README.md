@@ -32,3 +32,6 @@
 https://xxx.xxx.workers.dev/clash
 ```
 即可！
+
+### 注意
+不要泄露你的worker地址，会泄露的你订阅链接
