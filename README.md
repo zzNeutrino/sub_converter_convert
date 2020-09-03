@@ -22,7 +22,7 @@
 
 在cloudflare worker上实现，免费！稳定！
 
-使用cf worker网上很多，不再赘述
+使用cf worker的tutorial网上很多，不再赘述
 
 ### 使用
 将程序导入worker，配置好你机场的订阅链接，访问worker的时候url后面带上参数，即可生成不同工具的配置
